@@ -1,0 +1,7 @@
+numpy==1.23.5
+numpy==1.21.5
+opencv_python==4.10.0.84
+pynput==1.7.7
+simple_pid==2.0.1
+supervision==0.24.0
+ultralytics==8.3.18
