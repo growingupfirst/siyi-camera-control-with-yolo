@@ -21,6 +21,7 @@ And this repo: https://github.com/Innopolis-UAV-Team/siyi-python-sdk
 
 To use:
 - cd into repo
+- Open `mlobject_tracker.py`. Go to line 42. Change the path to YOLO model weight.
 - Run:
 ```python
 python3 mlobject_tracker.py
